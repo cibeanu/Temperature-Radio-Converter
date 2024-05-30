@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment 1B</string>
+    <string name="temperature">Temperature:</string>
+    <string name="temperature_hint">Enter Temperature</string>
+    <string name="conversion">Conversion:</string>
+    <string name="farenheit">C to F</string>
+    <string name="celsius">F to C</string>
+    <string name="reset">Reset</string>
+    <string name="calculate">Calculate</string>
+</resources>
